@@ -308,7 +308,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("./src/img/bgpic1.jpg") top right;
+  background: url("./img/bgpic1.jpg") top right;
   background-size: cover;
   position: relative;
 }
@@ -593,7 +593,7 @@ section {
 }
 
 .about .image {
-  background: url("./src/img/logo1.JPG") center center no-repeat;
+  background: url("./img/logo1.JPG") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -756,7 +756,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("./src/img/bikebg.JPG") no-repeat;
+  background: url("./img/bikebg.JPG") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1278,7 +1278,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("./src/img/testimonials/footerbg.jpg") top center no-repeat;
+  background: url("./img/testimonials/footerbg.jpg") top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
