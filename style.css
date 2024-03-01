@@ -593,7 +593,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/logo1.JPG") center center no-repeat;
+  background: url(".img/logo1.JPG") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
